@@ -1,0 +1,6 @@
+14150405|Nguyen Ha Oanh|TH12B|05/11/1995|Nu|Bac Giang|3.1|Khong|NguyenHaOanh@gmail.com
+14150404|Nguyen Ha My|TH12B|02/11/1995|Nu|Bac Giang|2.0|Co|NguyenHaMy@gmail.com
+14150401|Tran Van Huy|TH13B|07/06/1996|Nam|Ha Noi|2.5|Khong|TranVanHuy@gmail.com
+14150406|Tran Van Dung|TH13A|05/09/1996|Nam|Lao Cai|3.3|Co|TranVanDung@gmail.com
+14150409|Hoang Thuy Hang|TH13C|08/05/1996|Nu|Hoa Binh|2.9|Khong|HoangThuyHang@gmail.com
+14150403|Nguyen Thi Hoa|TH13C|05/15/1996 12:00:00 AM|Nu|Hoa Binh|2.8|Co|NguyenThiHoa@gmail.com
